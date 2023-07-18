@@ -1,8 +1,9 @@
-import React from 'react';
+import React,{useEffect}from 'react';
 import "./style/Auth.css";
 
 const Auth = () => {
-  return (
+  
+	return (
     <div>
     <div className="container">
 	<div className="row d-flex justify-content-center mt-5">
